@@ -1,4 +1,9 @@
-# Open Banking Client (WORK IN PROGRESS)
+# DISCLAIMER (WORK IN PROGRESS)
+This project is a work in progress still and while I have been focused on advancing the functionality and features I have not focused much on tests and documentation yet.  
+Tests will be made in Jest, they should contain a smoke testing suite comprising tests for all core and critical components and be followed later by testing for all other features as well.  
+Documentation is planned to be integrated as commented code with an OpenAPI Specification (OAS) generator such as Typedoc and SwaggerUI for exploring the API.
+
+# Open Banking Client
 The goal of this project is to build a payment service using Open Banking APIs (True Layer).  
 My intention is build a server making it as 'production-ready' as I can and trying to build the core components on my own isntead of using existing solutions.  
 
